@@ -14,27 +14,27 @@ export class AnimalListComponent implements OnInit {
     {
       name:'Belka',
       species:'svinja',
-      dob:'5 nedelja'
+      dob:'01.01.2001'
     },
     {
       name:'Sivka',
       species:'krava',
-      dob:'6 nedelja'
+      dob:'02.01.2001'
     },
     {
       name:'Ridjan',
       species:'konj',
-      dob:'7 nedelja'
+      dob:'03.01.2001'
     },
     {
       name:'Mekeke',
       species:'koza',
-      dob:'8 nedelja'
+      dob:'04.01.2001'
     },
     {
       name:'Glavonja',
       species:'ovan',
-      dob:'9 nedelja'
+      dob:'05.01.2001'
     }
    
     ];
