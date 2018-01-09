@@ -29,7 +29,11 @@ export class AnimalListComponent implements OnInit {
     // console.log(animal);
 
    }
-  
+   moweToTop(animal){
+      this.removeAnimal(animal);
+      this.animals.unshift(animal);
+
+   }
 
   ngOnInit() {
   }
